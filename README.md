@@ -9,7 +9,7 @@ the config bellow in the config.yml....because Some how the default config not w
 >`owner-name: "Your name"`
 Or  just copy paste this 
 
-#Config for WelcomeMessage by Az928#
+>`#Config for WelcomeMessage by Az928#
 
 message: "§aWelcome to the Server!"
-owner-name: "none"
+owner-name: "none"`

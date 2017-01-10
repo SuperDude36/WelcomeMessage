@@ -1,0 +1,11 @@
+name: WelcomeMessage
+main: Az928\WelcomeMessage\core
+version: 1.0.0
+author: Az928
+api:
+- 1.1.0
+- 2.0.0
+- 2.1.0
+- 3.0.0
+- 3.0.0-ALPHA1
+- 3.0.0-ALPHA2

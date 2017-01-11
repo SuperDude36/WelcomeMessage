@@ -20,5 +20,5 @@ permissions:
  wlc.announce:
   default: op
  wlc.about:
-  defaulr: op
+  default: op
   

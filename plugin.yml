@@ -1,22 +1,5 @@
 name: WelcomeMessage
-main: Az928\WelcomeMessage\core
-version: 1.0.0
+main: Az928\WelcomeMessage\Main
+version: 1.3
+api: [3.0.0,2.1.0]
 author: Az928
-api:
-- 1.1.0
-- 2.0.0
-- 2.1.0
-- 3.0.0
-commands:
- announce:
-  permission: wlc.announce
-  description: "Announces given message!"
- aboutwlc:
-  permission: wlc.about
-  description: "About the plugin!"
-permissions:
- wlc.announce:
-  default: op
- wlc.about:
-  default: op
-  

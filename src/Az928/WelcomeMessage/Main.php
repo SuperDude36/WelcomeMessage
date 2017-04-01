@@ -27,8 +27,8 @@ class Main extends Base implements Listener{
 	  }
 	  public function onJoin(PlayerJoinEvent $event){
 	        $player = $event->getPlayer();
-	        $msg = $this->getConfig()->get("message");
-	        $msg = str_replace("{player}", $player->getName(), $msg);
-	        $player->sendMessage($msg);   
+	        $msg = $this->getConfig()->get("title");
+	        $msg = str_replace("{player}", $player->getName(), $title);
+	        $player->sendMessage($title);   
 		}
   }
